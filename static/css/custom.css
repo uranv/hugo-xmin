@@ -1,3 +1,4 @@
+/* change default baseline alignment of the icon font to text-bottom */
 .material-symbols-outlined {
   vertical-align: text-bottom;
 }
